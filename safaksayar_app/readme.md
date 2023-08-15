@@ -4,7 +4,7 @@ In this project, the remaining time between the two targeted date is shown. In t
 
 ## Used Technologies
 
-- 
+- Firebase Auth, Firestore, Storage
 
   
 
