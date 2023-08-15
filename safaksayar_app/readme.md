@@ -10,4 +10,4 @@ In this project, the remaining time between the two targeted date is shown. In t
 
 You can look at the pictures.
 
-![dashboard]([https://github.com/byfad51/e-commerce-team-project/raw/main/Screenshots/database.png](https://github.com/byfad51/interview2023_2/blob/main/safaksayar_app/safak_sayar.png)https://github.com/byfad51/interview2023_2/blob/main/safaksayar_app/safak_sayar.png)
+![dashboard]([/safak_sayar.png])
