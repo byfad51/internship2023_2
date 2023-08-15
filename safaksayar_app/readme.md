@@ -10,4 +10,5 @@ In this project, the remaining time between the two targeted date is shown. In t
 
 You can look at the pictures.
 
+The pictures are randomly selected from Storage.
 ![dashboard](https://github.com/byfad51/interview2023_2/blob/main/safaksayar_app/safak_sayar.png)
