@@ -3,7 +3,6 @@
 
 ## Used Technologies
 
-- Firebase Auth, Firestore, Storage
 
   
 
